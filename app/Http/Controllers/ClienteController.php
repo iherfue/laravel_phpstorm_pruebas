@@ -13,7 +13,7 @@ class ClienteController extends Controller
      */
     public function index()
     {
-        //
+        //esto es la funcion index
     }
 
     /**
